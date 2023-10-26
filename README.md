@@ -3,7 +3,7 @@
 
 API versioning is a crucial aspect of software development, especially when it comes to maintaining and extending an existing codebase. By implementing versioning, you can introduce new features without breaking the existing functionality. In this guide, we will walk you through how to implement API versioning in a Spring Boot application using URL versioning. We will create two versions of a simple Task API, allowing you to extend the features while minimizing the impact on existing logic.
 
-![](/Users/amirreza/WorkSpace/Spring/versioning/screenshot/home-picture.webp)
+![](https://raw.githubusercontent.com/AmirrezaRotamian/Versioning-RESTful/main/screenshot/home-picture.webp)
 
 ### Benefits of API Versioning
 API versioning is a fundamental practice in software development, especially in a world where applications are constantly evolving. It offers several key benefits:
